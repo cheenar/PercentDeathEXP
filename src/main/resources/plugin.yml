@@ -1,0 +1,4 @@
+name: PercentDeathEXP
+version: 1.4.1
+description: Returns a percent of the player's exp on respawn
+main: com.cheenar.minecraft.bukkit.pde.PercentDeathEXP
